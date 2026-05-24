@@ -29,5 +29,5 @@
 
 1. Склонируйте репозиторий:
 ```bash
-git clone [https://github.com/ВАШ_НИКНЕЙМ/yandex-music-discord-rpc.git](https://github.com/ВАШ_НИКНЕЙМ/yandex-music-discord-rpc.git)
+git clone [https://github.com/aromihsoy/yandex-music-discord-rpc.git](https://github.com/aromihsoy/yandex-music-discord-rpc.git)
 cd yandex-music-discord-rpc
